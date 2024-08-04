@@ -1,2 +1,2 @@
 # IBMDatascience
-IBMDatascience Exercises
+This project is for IBMDatascience Exercises peer review
